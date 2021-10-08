@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "ImageScrollingDemo (Package)", "ImageScrollingDemo (Package)\ImageScrollingDemo (Package).wapproj", "{F71F89BB-09E1-4097-8D89-5AB207105C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageScrollingDemo", "ImageScrollingDemo\ImageScrollingDemo.csproj", "{9B1D2D10-9F56-4273-AD49-27A603D14760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|arm64.ActiveCfg = Debug|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|arm64.Build.0 = Debug|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|arm64.Deploy.0 = Debug|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x64.ActiveCfg = Debug|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x64.Build.0 = Debug|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x64.Deploy.0 = Debug|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x86.ActiveCfg = Debug|x86
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x86.Build.0 = Debug|x86
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Debug|x86.Deploy.0 = Debug|x86
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|arm64.ActiveCfg = Release|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|arm64.Build.0 = Release|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|arm64.Deploy.0 = Release|arm64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x64.ActiveCfg = Release|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x64.Build.0 = Release|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x64.Deploy.0 = Release|x64
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x86.ActiveCfg = Release|x86
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x86.Build.0 = Release|x86
+		{F71F89BB-09E1-4097-8D89-5AB207105C46}.Release|x86.Deploy.0 = Release|x86
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|arm64.ActiveCfg = Debug|arm64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|arm64.Build.0 = Debug|arm64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|x64.ActiveCfg = Debug|x64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|x64.Build.0 = Debug|x64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|x86.ActiveCfg = Debug|x86
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Debug|x86.Build.0 = Debug|x86
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|arm64.ActiveCfg = Release|arm64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|arm64.Build.0 = Release|arm64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|x64.ActiveCfg = Release|x64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|x64.Build.0 = Release|x64
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|x86.ActiveCfg = Release|x86
+		{9B1D2D10-9F56-4273-AD49-27A603D14760}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34AD0558-659F-463C-93E1-D9C679C15611}
+	EndGlobalSection
+EndGlobal
